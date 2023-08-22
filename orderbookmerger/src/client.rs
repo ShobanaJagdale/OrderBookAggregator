@@ -49,7 +49,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 println!(" ] ");
             }
         }
-        thread::sleep(Duration::from_millis(500));
+     
     }
     #[allow(unreachable_code)]
     Ok(())
